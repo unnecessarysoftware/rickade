@@ -2,7 +2,7 @@
 
 # rickade
 Block websites plus rickroll..Double the fun
-#What is the rickade?
+# What is the rickade?
 Its an extension.
 ```
 You can install it by 
