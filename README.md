@@ -2,3 +2,12 @@
 
 # rickade
 Block websites plus rickroll..Double the fun
+#What is the rickade?
+Its an extension.
+```
+You can install it by 
+going to chrome://extension,
+turn on the developer mode 
+and press the install package thing.
+```
+This extension redirects every site to rickroll.
